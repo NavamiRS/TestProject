@@ -29,7 +29,7 @@ public class MultipleWindowHandling {
 		
 		
 		WebElement openNewTabBtn=driver.findElement(By.id("newTabBtn"));
-		js.executeScript("argument[0].scollIntoView();", openNewTabBtn);
+		js.executeScript("argument[0].scrollIntoView();", openNewTabBtn);
 		openNewTabBtn.click();
 		
 		Set<String>allChildWindows=driver.getWindowHandles();
