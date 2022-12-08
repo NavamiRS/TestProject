@@ -9,7 +9,7 @@ public class DebugClass {
 	
 	public static void main(String[] args) {
 		
-		int marks[]= {a,2,3};
+		int marks[]= {a,201,301};
 		
 		int g=90;
 		
