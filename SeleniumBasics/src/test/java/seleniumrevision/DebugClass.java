@@ -1,11 +1,15 @@
-
+package seleniumrevision;
 
 public class DebugClass {
+
+
+
+
 	private static final int a=5;
 	
 	public static void main(String[] args) {
 		
-		int marks[]= {a,2,3};
+		int marks[]= {a,201,301};
 		
 		int g=90;
 		
@@ -23,3 +27,6 @@ public class DebugClass {
 	}
 
 }
+
+
+
